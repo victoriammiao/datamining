@@ -1,0 +1,29 @@
+# --- Dataset (exceeds GitHub 100 MB file limit; ~371 MB) ---
+games.csv
+
+# --- Accidental / junk files ---
+=95%
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
