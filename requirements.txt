@@ -1,0 +1,11 @@
+# Data mining assignment (JC3503) — core stack
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+scikit-learn>=1.3
+
+# Jupyter notebook
+jupyter>=1.0
+ipykernel>=6.29
